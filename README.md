@@ -9,11 +9,11 @@ The official Solcast website: https://solcast.com.au/
 `npm install solcast-unofficial`
 
 ##### From source #####
-`# clone the repo`
-`git clone https://github.com/spelexander/solcast-unofficial.git`
+`# clone the repo
+git clone https://github.com/spelexander/solcast-unofficial.git`
 
-`# Install unirest http lib`
-`npm install unirest`
+`# Install unirest http lib
+npm install unirest`
 
 ### Usage ###
 ```javascript
