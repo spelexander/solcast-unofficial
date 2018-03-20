@@ -1,0 +1,32 @@
+{
+  "name": "solcast-unofficial",
+  "version": "1.0.1",
+  "description": "An unofficial Node.js client for the Solcast solar PV generation and radiation forecast API",
+  "main": "./lib/solcast.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spelexander/solcast-unofficial.git"
+  },
+  "keywords": [
+    "solcast",
+    "radiation",
+    "forecast",
+    "api"
+  ],
+  "author": "Alexander Spence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spelexander/solcast-unofficial/issues"
+  },
+  "homepage": "https://github.com/spelexander/solcast-unofficial#readme",
+  "dependencies": {
+    "unirest": "0.5.1"
+  }
+}
