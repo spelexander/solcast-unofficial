@@ -6,17 +6,17 @@ The official Solcast website: https://solcast.com.au/
 
 ### Install ###
 
-##### Using npm #####
+#### Using npm ####
 
 `npm install solcast-unofficial`
 
-##### From source #####
+#### From source ####
 
-clone the repo
+clone the repo:
 
 `git clone https://github.com/spelexander/solcast-unofficial.git`
 
-Install unirest http lib
+Install unirest http lib:
 
 `npm install unirest`
 
