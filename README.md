@@ -5,17 +5,23 @@ The Solcast API provides high time granularity Solar Radiation and PV panel gene
 The official Solcast website: https://solcast.com.au/
 
 ### Install ###
+
 ##### Using npm #####
+
 `npm install solcast-unofficial`
 
 ##### From source #####
-`# clone the repo
-git clone https://github.com/spelexander/solcast-unofficial.git`
 
-`# Install unirest http lib
-npm install unirest`
+clone the repo
+
+`git clone https://github.com/spelexander/solcast-unofficial.git`
+
+Install unirest http lib
+
+`npm install unirest`
 
 ### Usage ###
+
 ```javascript
 const Solcast = require("solcast-unofficial")
 
