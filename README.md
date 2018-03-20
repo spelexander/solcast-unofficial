@@ -9,15 +9,15 @@ The official Solcast website: https://solcast.com.au/
 `npm install solcast-unofficial`
 
 ##### From source #####
-clone the repo
+`# clone the repo`
 `git clone https://github.com/spelexander/solcast-unofficial.git`
 
-Install unirest http lib
+`# Install unirest http lib`
 `npm install unirest`
 
 ### Usage ###
 ```javascript
-const Solcast = require("../modules/solcast.js")
+const Solcast = require("solcast-unofficial")
 
 // Init object with API Key (arg1) and Debug level (arg2) (can also set a diff url and other params)
 var solcast = new Solcast("API KEY", 1);
