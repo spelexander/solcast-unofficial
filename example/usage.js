@@ -22,7 +22,7 @@ solcast.getRADForcasts(long, lat)
 var capacity = 5000;
 
 // Gets PV generation forecast
-solcast.getRADForcasts(long, lat, capacity)
+solcast.getPVEstimatedActuals(long, lat, capacity)
 .then(result => {
   // Log results
     console.log(result);
