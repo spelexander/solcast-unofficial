@@ -1,3 +1,5 @@
+[![https://nodei.co/npm/solcast-unofficial.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/solcast-unofficial.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/solcast-unofficial)
+
 ## Unofficial Solcast Node.js ##
 
 This is an unofficial Node.js API client library for the Solcast API.
